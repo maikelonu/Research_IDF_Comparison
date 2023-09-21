@@ -12,7 +12,7 @@ EDP Sciences - BIO Web of Conferences
 
 Graphical Abstract
 
-![alt test](/Image_003.png)
+![alt test](/Image_0031.png)
 
 Abstract: 
 
